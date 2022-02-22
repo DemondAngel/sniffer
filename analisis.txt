@@ -1,0 +1,238 @@
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 210, Longitud de carga útil: 196 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 216, Longitud de carga útil: 202 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 210, Longitud de carga útil: 196 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 216, Longitud de carga útil: 202 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 210, Longitud de carga útil: 196 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 216, Longitud de carga útil: 202 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 179, Longitud de carga útil: 165 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:99:3B	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 311, Longitud de carga útil: 297 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 311, Longitud de carga útil: 297 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: FC:E3:3C:9C:FD:76	Destino:  1: 0:5E: 0: 0: 1	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 179, Longitud de carga útil: 165 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino:  1: 0:5E: 0: 0:71	Longitud de la trama: 123, Longitud de carga útil: 109 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 123, Longitud de carga útil: 109 Difusion
+
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino:  1: 0:5E: 0: 0:71	Longitud de la trama: 123, Longitud de carga útil: 109 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 123, Longitud de carga útil: 109 Difusion
+
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino:  1: 0
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 125, Longitud de carga útil: 111 Difusion
+:5E: 0: 0:71	Longitud de la trama: 125, Longitud de carga útil: 111 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino:  1: 0:5E: 0: 0:71	Longitud de la trama: 125, Longitud de carga útil: 111 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 18:83:BF:4F:F3:91	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 125, Longitud de carga útil: 111 Difusion
+
+Tipo: 0x0008	IPv4	Origen: 80:3F:5D:30:5D:2D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E: 0: 0:FB	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 179, Longitud de carga útil: 165 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:99:3B	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 243, Longitud de carga útil: 229 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E: 0: 0:FC	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 179, Longitud de carga útil: 165
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 179, Longitud de carga útil: 165 Multifusion
+ Multifusion
+
+Tipo: 0x0608	ARP	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 60, Longitud de carga útil: 46 Difusion
+
+Tipo: 0x0608	ARP	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 60, Longitud de carga útil: 46 Difusion
+
+Tipo: 0x0008	IPv4	Origen: 80:3F:5D:30:5D:2D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 307, Longitud de carga útil: 293 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 80:3F:5D:30:5D:2D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 316, Longitud de carga útil: 302 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 80:3F:5D:30:5D:2D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 371, Longitud de carga útil: 357 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 80:3F:5D:30:5D:2D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 381, Longitud de carga útil: 367 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 80:3F:5D:30:5D:2D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 307, Longitud de carga útil: 293 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 80:3F:5D:30:5D:2D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 316, Longitud de carga útil: 302 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 80:3F:5D:30:5D:2D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 371, Longitud de carga útil: 357 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 80:3F:5D:30:5D:2D	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 381, Longitud de carga útil: 367 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: FA:FA:90:E4:38:84	Destino:  1: 0:5E: 0: 0:FB	Longitud de la trama: 789, Longitud de carga útil: 775 Multifusion
+
+Tipo: 0xDD86	IPv6	Origen: FA:FA:90:E4:38:84	Destino: 33:33: 0: 0: 0:FB	Longitud de la trama: 809, Longitud de carga útil: 795 Ninguna difusion
+
+Tipo: 0x0608	ARP	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 60, Longitud de carga útil: 46 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:99:3B	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:99:3B	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x3A89	Origen: 1C:43:63:8D:AF:9E	Destino:  1:80:C2: 0: 0:13	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x3A89	Origen: 1C:43:63:8D:AF:9E	Destino:  1:80:C2: 0: 0:13	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x3A89	Origen: 1C:43:63:8D:AF:9E	Destino:  1:80:C2: 0: 0:13	Longitud de la trama: 60, Longitud de carga útil: 46
+Tipo: 0x3A89	Origen: 1C:43:63:8D:AF:9E	Destino:  1:80:C2: 0: 0:13	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x3A89	Origen: 1C:43:63:8D:AF:9E	Destino:  1:80:C2: 0: 0:13	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+ Multifusion
+
+Tipo: 0x3A89	Origen: 1C:43:63:8D:AF:9E	Destino:  1:80:C2: 0: 0:13	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x3A89	Origen: 1C:43:63:8D:AF:9E	Destino:  1:80:C2: 0: 0:13	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x3A89	Origen: 1C:43:63:8D:AF:9E	Destino:  1:80:C2: 0: 0:13	Longitud de la trama: 60, Longitud de carga útil: 46 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 174, Longitud de carga útil: 160 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 174, Longitud de carga útil: 160 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:99:3B	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 175, Longitud de carga útil: 161 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 175, Longitud de carga útil: 161 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 86, Longitud de carga útil: 72 Difusion
+
+Tipo: 0x0608	ARP	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 60, Longitud de carga útil: 46 Difusion
+
+Tipo: 0x0608	ARP	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 60, Longitud de carga útil: 46 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:99:3B	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0608	ARP	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 60, Longitud de carga útil: 46 Difusion
+
+Tipo: 0x0008	IPv4	Origen:  8: 0:27:C2:7D:A4	Destino: 1C:43:63:8D:AF:9E	Longitud de la trama: 100, Longitud de carga útil: 86 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  8: 0:27:C2:7D:A4	Longitud de la trama: 161, Longitud de carga útil: 147 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen:  0: 0: 0: 0: 0: 0	Destino:  0: 0: 0: 0: 0: 0	Longitud de la trama: 100, Longitud de carga útil: 86 Unidifusion
+
+Tipo: 0x0008	IPv4	Origen:  8: 0:27:C2:7D:A4	Destino: 1C:43:
+Tipo: 0x0008	IPv4	Origen:  0: 0: 0: 0: 0: 0	Destino:  0: 0: 0: 0: 0: 0	Longitud de la trama: 100, Longitud de carga útil: 86 Unidifusion
+63:8D:AF:9E	Longitud de la trama: 100, Longitud de carga útil: 86 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  8: 0:27:C2:7D:A4	Longitud de la trama: 161, Longitud de carga útil: 147 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen:  0: 0: 0: 0: 0: 0	Destino:  0: 0: 0: 0: 0: 0	Longitud de la trama: 100, Longitud de carga útil: 86 Unidifusion
+
+Tipo: 0x0008	IPv4	Origen:  0: 0: 0: 0: 0: 0	Destino:  0: 0: 0: 0: 0: 0	Longitud de la trama: 100, Longitud de carga útil: 86 Unidifusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:99:3B	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: FA:FA:90:E4:38:84	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 167, Longitud de carga útil: 153 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: FA:FA:90:E4:38:84	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 167, Longitud de carga útil: 153 Multifusion
+
+Tipo: 0x0008	IPv4	Origen: FA:FA:90:E4:38:84	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 167, Longitud de carga útil: 153 Multifusion
+
+Tipo: 0x0608	ARP	Origen:  8: 0:27:C2:7D:A4	Destino: 1C:43:63:8D:AF:9E	Longitud de la trama: 42, Longitud de carga útil: 28 Ninguna difusion
+
+Tipo: 0x0608	ARP	Origen: 1C:43:63:8D:AF:9E	Destino:  8: 0:27:C2:7D:A4	Longitud de la trama: 60, Longitud de carga útil: 46 Ninguna difusion
+
+Tipo: 0x0608	ARP	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 60, Longitud de carga útil: 46 Difusion
+
+Tipo: 0x0608	ARP	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 60, Longitud de carga útil: 46 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:94:9D	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:F8:29:F3:99:3B	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 119, Longitud de carga útil: 105 Difusion
+
+Tipo: 0x0608	ARP	Origen: D4:5D:64:EF:D9:1F	Destino: FF:FF:FF:FF:FF:FF	Longitud de la trama: 60, Longitud de carga útil: 46 Difusion
+
+Tipo: 0x0008	IPv4	Origen: D4:5D:64:EF:D9:1F	Destino:  1: 0:5E:7F:FF:FA	Longitud de la trama: 179, Longitud de carga útil: 165 Multifusion
+
+Tipo: 0x0008	IPv4	Origen:  8: 0:27:C2:7D:A4	Destino: 1C:43:63:8D:AF:9E	Longitud de la trama: 100, Longitud de carga útil: 86 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  8: 0:27:C2:7D:A4	Longitud de la trama: 148, Longitud de carga útil: 134 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen:  8: 0:27:C2:7D:A4	Destino: 1C:43:63:8D:AF:9E	Longitud de la trama: 74, Longitud de carga útil: 60 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  8: 0:27:C2:7D:A4	Longitud de la trama: 74, Longitud de carga útil: 60 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen:  8: 0:27:C2:7D:A4	Destino: 1C:43:63:8D:AF:9E	Longitud de la trama: 153, Longitud de carga útil: 139 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen:  8: 0:27:C2:7D:A4	Destino: 1C:43:63:8D:AF:9E	Longitud de la trama: 66, Longitud de carga útil: 52 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  8: 0:27:C2:7D:A4	Longitud de la trama: 66, Longitud de carga útil: 52 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  8: 0:27:C2:7D:A4	Longitud de la trama: 214, Longitud de carga útil: 200 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen:  8: 0:27:C2:7D:A4	Destino: 1C:43:63:8D:AF:9E	Longitud de la trama: 66, Longitud de carga útil: 52 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  8: 0:27:C2:7D:A4	Longitud de la trama: 66, Longitud de carga útil: 52 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen:  8: 0:27:C2:7D:A4	Destino: 1C:43:63:8D:AF:9E	Longitud de la trama: 66, Longitud de carga útil: 52 Ninguna difusion
+
+Tipo: 0x0008	IPv4	Origen: 1C:43:63:8D:AF:9E	Destino:  8: 0:27:C2:7D:A4	Longitud de la trama: 66, Longitud de carga útil: 52 Ninguna difusion
+
+------------------Resumen de analisis-------------------------
+
+Tramas IEEE 802.3 analizadas: 0, Tramas Ethernet II analizadas 100
+
+Tramas de protocolo de capa superior
+
+IPv4: 80 paquetes
+
+IPv6: 1 paquetes
+
+ARP: 11 paquetes
+
+Control de Flujo de Ethernet: 0 paquetes
+
+Seguridad MAC: 0 paquetes
+
+Destino:  1: 0:5E:7F:FF:FA	 Tramas: 32
+
+Destino: FF:FF:FF:FF:FF:FF	 Tramas: 29
+
+Destino:  1: 0:5E: 0: 0: 1	 Tramas: 1
+
+Destino:  1: 0:5E: 0: 0:71	 Tramas: 4
+
+Destino:  1: 0:5E: 0: 0:FB	 Tramas: 2
+
+Destino:  1: 0:5E: 0: 0:FC	 Tramas: 1
+
+Destino: 33:33: 0: 0: 0:FB	 Tramas: 1
+
+Destino:  1:80:C2: 0: 0:13	 Tramas: 8
+
+Destino: 1C:43:63:8D:AF:9E	 Tramas: 9
+
+Destino:  8: 0:27:C2:7D:A4	 Tramas: 9
+
+Destino:  0: 0: 0: 0: 0: 0	 Tramas: 4
